@@ -3,10 +3,11 @@
   Travel In My World
 </p>
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/caroline-denis-ca/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/icon-set-social-media-icons-colours-mouse-over-and/64/LinkdIN_BW-512.png"/>
 </a>
+</p>
 
 <a href="https://carolinedenis.github.io">
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png"/>
