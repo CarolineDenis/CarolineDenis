@@ -55,8 +55,8 @@ Technical_background:
 <h2>💻 &nbsp;Some Tools I have Learned and Used</h2>
  
 <p align="left">
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="css" width="45" height="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/> 
