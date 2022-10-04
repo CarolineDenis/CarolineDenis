@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Travel In My World&type=waving&color=gradient&customColorList=0,2,2,5,30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30"/>
   Travel In My World
 </p>
 
