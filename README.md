@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Travel In My World! 🌍&animation=fadeIn&type=waving&color=timeGradient"/>
+  <img src="https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30"/>
+  Travel In My World
 </p>
 
 
@@ -76,4 +77,3 @@ Technical_background:
 <h2>📊 &nbsp;My Stats</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineDenis&layout=compact)](https://github.com/CarolineDenis/github-readme-stats)
 
-![Snake animation](https://github.com/CarolineDenis/CarolineDenis/blob/output/github-contribution-grid-snake.svg)
