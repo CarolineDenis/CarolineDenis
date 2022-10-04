@@ -22,15 +22,15 @@ name: Caroline Denis
 located_in: Los Angeles, California
 Education:
   [
-    "Certificate Software Engineer - Full Stack Web Developper",
+    "Certificate Software Engineer - Full Stack Web Developer",
     "Bachelor in Education"
   ]
   
 Field_of_interests:
   [
     "Travel",
-    "WellBeing",
-    "Web Devlopment",
+    "Well-Being",
+    "Web Development",
     "UI/UX",
     "Backend",
     "Frontend"
