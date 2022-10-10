@@ -81,4 +81,4 @@ Technical_background:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarolineDenis&theme=radical)
 
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineDenis)](https://github.com/CarolineDenis/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineDenis)](https://github.com/CarolineDenis/github-readme-stats) -->
