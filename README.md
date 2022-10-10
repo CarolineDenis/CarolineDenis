@@ -77,4 +77,4 @@ Technical_background:
  
 <h2>📊 &nbsp;My Stats</h2>
 
-![Snake animation](https://github.com/CarolineDenis/CarolineDenis/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CarolineDenis/CarolineDenis/blob/output/github-contribution-grid-snake.gif)
