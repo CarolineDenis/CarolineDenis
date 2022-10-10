@@ -80,3 +80,5 @@ Technical_background:
 ![snake gif](https://github.com/CarolineDenis/CarolineDenis/blob/output/github-contribution-grid-snake.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarolineDenis&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineDenis)](https://github.com/CarolineDenis/github-readme-stats)
