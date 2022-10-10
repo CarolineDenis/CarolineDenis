@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caroline-denis-ca/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/icon-set-social-media-icons-colours-mouse-over-and/64/LinkdIN_BW-512.png" style="border-radius:20px"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/icon-set-social-media-icons-colours-mouse-over-and/64/LinkdIN_BW-512.png" border-radius="20px"/>
 </a>
 
 
