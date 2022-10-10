@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caroline-denis-ca/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/icon-set-social-media-icons-colours-mouse-over-and/64/LinkdIN_BW-512.png" border-radius="20px"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/icon-set-social-media-icons-colours-mouse-over-and/64/LinkdIN_BW-512.png" />
 </a>
 
 
@@ -14,7 +14,7 @@
 </a>
 </p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47tsph8dwpeitt69yu1scr1lbsb7jb1cr6mrqqnsli&rid=giphy.gif&ct=g"/>
+  <img src="https://media1.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47tsph8dwpeitt69yu1scr1lbsb7jb1cr6mrqqnsli&rid=giphy.gif&ct=g" border-radius="20px"/>
 </p>
 
 ```yaml
