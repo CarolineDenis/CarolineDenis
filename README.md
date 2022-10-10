@@ -78,3 +78,5 @@ Technical_background:
 <h2 style="margin-top: 60px">📊 &nbsp;My Stats</h2>
 
 ![snake gif](https://github.com/CarolineDenis/CarolineDenis/blob/output/github-contribution-grid-snake.gif)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarolineDenis&theme=radical)
