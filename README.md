@@ -39,6 +39,10 @@ Field_of_interests:
 Technical_background:
   [
     {
+    "Flow - Full Stack web dev" : 
+      "Java - Spring - Javascript - MySQL - BCrypt - CSS - HTML - APIs"
+     },
+    {
     "Escape - Full Stack web dev" : 
       "React - Javascript - MongoDB - Mongoose - MaterialUI - Socket IO - APIs"
      },
