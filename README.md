@@ -13,9 +13,9 @@
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png"/>
 </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47tsph8dwpeitt69yu1scr1lbsb7jb1cr6mrqqnsli&rid=giphy.gif&ct=g" border-radius="20px"/>
-</p>
+</p> -->
 
 ```yaml
 name: Caroline Denis
